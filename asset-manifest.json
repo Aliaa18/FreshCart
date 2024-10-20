@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/FreshCart/static/css/main.28d847e1.css",
+    "main.js": "/FreshCart/static/js/main.cc833023.js",
+    "static/media/fa-solid-900.ttf": "/FreshCart/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/FreshCart/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/FreshCart/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/FreshCart/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/FreshCart/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/slide5.jpg": "/FreshCart/static/media/slide5.38df90b52102f9ca6fe4.jpg",
+    "static/media/slide1.jpg": "/FreshCart/static/media/slide1.ef0cf97a3b603f3196e7.jpg",
+    "static/media/slide2.jpg": "/FreshCart/static/media/slide2.2e6d5c0607149b173b99.jpg",
+    "static/media/slide4.jpg": "/FreshCart/static/media/slide4.f9218a2ff8e48af42a91.jpg",
+    "static/media/slide3.jpg": "/FreshCart/static/media/slide3.778ec0f07f6f14bea0d2.jpg",
+    "static/media/fa-regular-400.woff2": "/FreshCart/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/FreshCart/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/FreshCart/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/FreshCart/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/FreshCart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/FreshCart/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/FreshCart/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/FreshCart/index.html",
+    "main.28d847e1.css.map": "/FreshCart/static/css/main.28d847e1.css.map",
+    "main.cc833023.js.map": "/FreshCart/static/js/main.cc833023.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28d847e1.css",
+    "static/js/main.cc833023.js"
+  ]
+}
